@@ -9,12 +9,12 @@
         "primaryColor": "#fffffd",
         "secondaryColor": "#A25DAE",
         "successColor": "#1E7C3A",
-        "infoColor": "#74a3c7",
+        "infoColor": "#1a768b",
         "warningColor": "#FFD785",
-        "dangerColor": "#FF9685",
-        "titleFont": "Oxygen",
-        "subtitleFont": "Libre Franklin",
-        "textFont": "Libre Franklin",
+        "dangerColor": "#e52a1b",
+        "titleFont": "Roboto",
+        "subtitleFont": "Roboto",
+        "textFont": "Roboto",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
@@ -24,7 +24,8 @@
         "#e2e2e2",
         "#282828",
         "#1a768b",
-        "#e8e9e8"
+        "#e8e9e8",
+        "#e52a1b"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -32,7 +33,9 @@
     "siteFonts": [],
     "uniqCompNum": 28,
     "versionPublish": "4.8.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-certi-immo.svg",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -56,7 +59,7 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fond%20biddit-2000x1414.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fond-biddit-2000x1414.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "containerColor1": "#094587",
@@ -251,7 +254,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/fotolia_113867258_m-2-1688x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-113867258-m-2-1688x1125.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fotolia-113867258-m-2-1688x1125-800x450.jpg",
                 "alt": "",
                 "title": "",
@@ -263,7 +266,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/livret%20cover%20ouvert-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/livret-cover-ouvert-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/livret-cover-ouvert-2000x1333-800x450.jpg",
                 "alt": "",
                 "title": "",
@@ -299,7 +302,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/fotolia_169084770_m-1839x1033.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-169084770-m-1839x1033.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fotolia-169084770-m-1839x1033-800x450.jpg",
                 "alt": "",
                 "title": "",
@@ -323,8 +326,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/_amo8773-2000x1331.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/-amo8773-2000x1331-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-amo8773-2000x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/amo8773-2000x1331-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -335,7 +338,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/fotolia_177316319_m-1949x975.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-177316319-m-1949x975.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fotolia-177316319-m-1949x975-800x450.jpg",
                 "alt": "",
                 "title": "",
@@ -345,8 +348,8 @@
             ]
           },
           "articleLayout": false,
-          "arrowleft": "<img src=\"@THEME_PATH@/components/_images/gallery/arrowleft.png\">",
-          "arrowright": "<img src=\"@THEME_PATH@/components/_images/gallery/arrowright.png\">",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
           "allItem": "All",
           "_tags": [
             "Thème"
@@ -370,7 +373,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fichier%201.svg",
+              "src": "@PROJECT_PATH@/assets/images/fichier-1.svg",
               "link": "",
               "alt": "",
               "title": ""
@@ -460,7 +463,7 @@
           "_name": "pricing-table3",
           "_anchor": "pricing-table3-m",
           "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n.mbr-section__container .mbr-section-subtitle {\n  font-size: 12px;\n}\n.mbr-section__container .mbr-section-title {\n  font-family: 'Roboto', sans-serif;\n  font-size: 50px;\n}\n.mbr-price-table {\n    padding-bottom:0px;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full pricing-table3\" data-rv-view=\"387\" style=\"background-color: rgb(232, 233, 232); padding-top: 80px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"624\">Nos offres Combi</h3>\n                  <p class=\"mbr-section-subtitle sub-2 mbr-editable-content\" style=\"font-size: 15px;\" code-editable-id=\"625\"><strong>Prix minimums calculés pour appartements/maisons 2 chambres. Tarifs complets sur simple demande.</strong></p>\n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"main-row\" style=\"max-width: none;\">\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\" style=\"background: linear-gradient(45deg, rgb(21, 94, 111), rgb(26, 118, 139), rgb(36, 165, 195)) rgb(26, 118, 139);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"626\">Media Combi</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"627\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"628\">250</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"629\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"630\">Plans 2D - Photos - Visite virtuelle<br><br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"631\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Vous disposez des rapports des contrôles légaux obligatoires. Présentez le bien sous son meilleur jour.</strong></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"632\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\" style=\"background: linear-gradient(45deg, rgb(21, 94, 111), rgb(26, 118, 139), rgb(36, 165, 195)) rgb(26, 118, 139);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"633\">Immo Light Combi</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"634\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"635\">325</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"636\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"637\">Certificat PEB - Contrôle électrique - Photos<br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"638\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Les points de départ d'une vente. Gagnez du temps en confiant à des professionnels la réalisation de ces indispensables.</strong></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"639\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\" style=\"background: linear-gradient(45deg, rgb(21, 94, 111), rgb(26, 118, 139), rgb(36, 165, 195)) rgb(26, 118, 139);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"640\">Immo Combi</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"641\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"642\">425</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"643\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"644\">Certificat PEB - Contrôle électrique - Plans 2D - Photos - Visite virtuelle</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"645\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Contrôles légaux et mise en valeur optimale du bien. Nos services phares réunis en un pack all-in avantageux.&nbsp;</strong></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"646\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block primary\" style=\"background: linear-gradient(45deg, rgb(175, 82, 67), rgb(219, 102, 84), rgb(255, 143, 118)) rgb(219, 102, 84);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"647\">Option Biddit</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"648\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"649\">150</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"650\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"651\">Conception - Impression - Placement de panneaux</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"652\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Les panneaux biddit répondent à une charte graphique bien précise. Laissez à nos spécialistes la gestion de l'affichage.&nbsp;</strong><br></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"653\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full pricing-table3\" data-rv-view=\"387\" style=\"background-color: rgb(232, 233, 232); padding-top: 80px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"654\">Nos offres Combi</h3>\n                  <p class=\"mbr-section-subtitle sub-2 mbr-editable-content\" style=\"font-size: 15px;\" code-editable-id=\"655\"><strong>Prix minimums calculés pour appartements/maisons 2 chambres. Tarifs complets sur simple demande.</strong></p>\n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"main-row\" style=\"max-width: none;\">\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\" style=\"background: linear-gradient(45deg, rgb(21, 94, 111), rgb(26, 118, 139), rgb(36, 165, 195)) rgb(26, 118, 139);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"656\">Media Combi</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"657\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"658\">250</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"659\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"660\">Plans 2D - Photos - Visite virtuelle<br><br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"661\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Vous disposez des rapports des contrôles légaux obligatoires. Présentez le bien sous son meilleur jour.</strong></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"662\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\" style=\"background: linear-gradient(45deg, rgb(21, 94, 111), rgb(26, 118, 139), rgb(36, 165, 195)) rgb(26, 118, 139);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"663\">Immo Light Combi</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"664\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"665\">325</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"666\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"667\">Certificat PEB - Contrôle électrique - Photos<br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"668\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Les points de départ d'une vente. Gagnez du temps en confiant à des professionnels la réalisation de ces indispensables.</strong></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"669\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\" style=\"background: linear-gradient(45deg, rgb(21, 94, 111), rgb(26, 118, 139), rgb(36, 165, 195)) rgb(26, 118, 139);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"670\">Immo Combi</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"671\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"672\">425</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"673\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"674\">Certificat PEB - Contrôle électrique - Plans 2D - Photos - Visite virtuelle</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"675\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Contrôles légaux et mise en valeur optimale du bien. Nos services phares réunis en un pack all-in avantageux.&nbsp;</strong></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"676\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block primary\" style=\"background: linear-gradient(45deg, rgb(175, 82, 67), rgb(219, 102, 84), rgb(255, 143, 118)) rgb(219, 102, 84);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"677\">Option Biddit</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"678\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"679\">150</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"680\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"681\">Conception - Impression - Placement de panneaux</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"682\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Les panneaux biddit répondent à une charte graphique bien précise. Laissez à nos spécialistes la gestion de l'affichage.&nbsp;</strong><br></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"683\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -599,7 +602,7 @@
           },
           "title1": "Par téléphone",
           "subtitle1": "Awesome",
-          "text1": "0800 82 171",
+          "text1": "<a href=\"tel:080082171\">0800 82 171</a>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "image": {
@@ -616,7 +619,7 @@
           },
           "title2": "Par mail",
           "subtitle2": "Awesome",
-          "text2": "info@certinergie.be",
+          "text2": "<a href=\"mailto:info@certinergie.be\">info@certinergie.be</a>",
           "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media3": {
             "image": {
@@ -633,7 +636,7 @@
           },
           "title3": "Via notre site web",
           "subtitle3": "Awesome",
-          "text3": "www.certinergie.be",
+          "text3": "<a href=\"https://certinergie.be\">www.certinergie.be</a>",
           "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Thème"
