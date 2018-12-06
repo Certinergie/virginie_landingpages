@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -535,7 +536,7 @@ a:hover {
 }
 #header6-2 P {
   text-align: left;
-  font-size: 24px;
+  font-size: 22px;
   font-family: 'Montserrat', sans-serif;
 }
 #header6-2 B {
@@ -581,28 +582,62 @@ a:hover {
 #features18-8 h4 {
   color: #000;
 }
-#pricing-table3-f .mbr-section__container .mbr-section-subtitle {
-  font-size: 12px;
-}
-#pricing-table3-f .mbr-section__container .mbr-section-title {
-  font-family: 'Roboto', sans-serif;
-  font-size: 60px;
+#features18-8 h1 {
+  font-size: 50px;
 }
 #content8-l H3 {
   font-family: 'Roboto', sans-serif;
-  font-size: 48px;
+  font-size: 16px;
 }
-#footer2-j .footer-list {
-  color: #74a3c7;
+#content8-l B {
+  font-size: 30px;
 }
-#footer2-j .btn-social {
-  border-color: #74a3c7;
-  color: #74a3c7;
+#pricing-table3-m {
+  
 }
-#footer2-j .btn-social:hover {
-  background: #74a3c7;
-  color: #fff;
+#pricing-table3-m .mbr-section__container .mbr-section-subtitle {
+  font-size: 12px;
+}
+#pricing-table3-m .mbr-section__container .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+}
+#pricing-table3-m .mbr-price-table {
+  padding-bottom: 0px;
 }
 #form1-g .form {
-  background: #fafbfc;
+  background: #fff;
+}
+#form1-g h1 {
+  font-size: 50px;
+}
+#form1-g .form1 .form {
+  border: 0px solid #efeff0;
+  padding: 2rem 1rem;
+}
+#form1-g .heading-title {
+  margin-bottom: 0em;
+}
+#content3-q .mbr-section-title,
+#content3-q .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-q H1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+#content3-q h1 {
+  font-size: 50px;
+}
+#features9-r .mbr-iconfont {
+  color: #1a768b;
+  border-color: #1a768b;
+}
+#features9-r .card-text {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+#features9-r .card-text {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
 }

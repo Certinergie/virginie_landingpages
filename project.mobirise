@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 22,
+    "uniqCompNum": 28,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png"
   },
@@ -87,7 +87,7 @@
           },
           "title": "Certinergie vous accompagne aussi dans la <b>gestion de vos dossiers biddit</b>",
           "text": "Des contrôles légaux à la mise en place de panneaux immobiliers en passant par la mise en valeur visuelle du bien et le partage d'informations techniques ... Certinergie est présent à chaque étape du processus de mise en vente.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Essayez maintenant !</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.certinergie.be/fr/devis-et-commande/#/?immo\" data-toolbar=\"-mbrBtnMove\">Essayez maintenant !</a> ",
           "_tags": [
             "Thème"
           ],
@@ -101,7 +101,7 @@
             },
             "P": {
               "text-align": "left",
-              "font-size": "24px",
+              "font-size": "22px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
@@ -219,8 +219,8 @@
           ],
           "_name": "features18",
           "_anchor": "features18-8",
-          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.card .mbr-iconfont {\n  color: #db6654;\n  border-color: #db6654;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n.heading-title {\n  text-align: left;\n  font-family: 'Montserrat', sans-serif;\n  color: #424242;\n}\n.card-title DIV {\n  font-size: 15px;\n  color: #424242;\n}\nP {\n  color: #424242;\n}\n.card-title B {\n  color: #bb412e;\n  font-size: 18px;\n}\nh4 {\n    color: #000;\n}",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero features18\" data-rv-view=\"22\" style=\"background: #e8e9e8;padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    \n\n    <div class=\"container\">\n        <div class=\"row heading\">\n            <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                <h1 class=\"mbr-section-title display-3 heading-title mbr-editable-content\" style=\"font-family: Roboto, sans-serif; text-align: center;\" code-editable-id=\"14\">Certinergie. De A à Z.</h1>\n                \n                \n            </div>\n        </div>\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-cards-col col-xs-12 col-lg-8 col-lg-offset-2\">\n                <div class=\"row\">\n\n                    <div class=\"mbr-cards-col col-xs-12\">\n                        <div class=\"card\">\n                            <div class=\"card-img col-xs-3 mbr-table-cell\"><div class=\"mbr-iconfont\"><span class=\"mbr-editable-content\" code-editable-id=\"15\"><p><strong>1</strong></p></span></div></div>\n                            <div class=\"card-box col-xs-9 mbr-table-cell text-xs-left\">\n                                <h4 class=\"card-title mbr-section-subtitle text-1 mbr-editable-content\" code-editable-id=\"16\"><strong>ORGANISME DE CONTROLE AGREE. Certifié conforme.&nbsp;</strong><div>Depuis 2011, Certinergie s'occupe des contrôles obligatoires dans le cadre d'une vente: Certificat PEB, contrôle électrique, contrôle citerne.</div></h4>\n                            </div>                            \n                            <div class=\"clear\"></div>\n                        </div>\n                    </div>\n\n                    <div class=\"mbr-cards-col col-xs-12\">\n                        <div class=\"card\">\n                            <div class=\"card-img col-xs-3 mbr-table-cell\"><div class=\"mbr-iconfont\"><span class=\"mbr-editable-content\" code-editable-id=\"17\"><p><strong>2</strong></p></span></div></div>\n                            <div class=\"card-box col-xs-9 mbr-table-cell text-xs-left\">\n                                <h4 class=\"card-title mbr-section-subtitle text-1 mbr-editable-content\" code-editable-id=\"18\"><strong>MISE EN VALEUR. Créez le coup de coeur !&nbsp;</strong><div>Photos, visite virtuelle, drone, plans de vente, descriptif complet.&nbsp;</div><div>Créez le coup de coeur !</div></h4>\n                            </div>                            \n                            <div class=\"clear\"></div>\n                        </div>\n                    </div>\n\n                    <div class=\"mbr-cards-col col-xs-12\">\n                        <div class=\"card\">\n                            <div class=\"card-img col-xs-3 mbr-table-cell\"><div class=\"mbr-iconfont\"><span class=\"mbr-editable-content\" code-editable-id=\"19\"><p><strong>3</strong></p></span></div></div>\n                            <div class=\"card-box col-xs-9 mbr-table-cell text-xs-left\">\n                                <h4 class=\"card-title mbr-section-subtitle text-1 mbr-editable-content\" code-editable-id=\"20\"><strong>AFFICHAGE BIDDIT SUR-MESURE. La cerise sur le gâteau.</strong><div>Les ventes biddit exigent le respect d'une charte graphique précise. <br>Conception, impression, placement, ... Certinergie a pensé à tout pour vous.</div></h4>\n                            </div>                            \n                            <div class=\"clear\"></div>\n                        </div>\n                    </div>\n\n                    \n\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.card .mbr-iconfont {\n  color: #db6654;\n  border-color: #db6654;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n.heading-title {\n  text-align: left;\n  font-family: 'Montserrat', sans-serif;\n  color: #424242;\n}\n.card-title DIV {\n  font-size: 15px;\n  color: #424242;\n}\nP {\n  color: #424242;\n}\n.card-title B {\n  color: #bb412e;\n  font-size: 18px;\n}\nh4 {\n    color: #000;\n}\nh1 {\n    font-size: 50px;\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features18\" data-rv-view=\"22\" style=\"background: #e8e9e8;padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    \n\n    <div class=\"container\">\n        <div class=\"row heading\">\n            <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                <h1 class=\"mbr-section-title display-3 heading-title mbr-editable-content\" style=\"font-family: Roboto, sans-serif; text-align: center;\" code-editable-id=\"21\">Certinergie. De A à Z.</h1>\n                \n                \n            </div>\n        </div>\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-cards-col col-xs-12 col-lg-8 col-lg-offset-2\">\n                <div class=\"row\">\n\n                    <div class=\"mbr-cards-col col-xs-12\">\n                        <div class=\"card\">\n                            <div class=\"card-img col-xs-3 mbr-table-cell\"><div class=\"mbr-iconfont\"><span class=\"mbr-editable-content\" code-editable-id=\"22\"><p><strong>1</strong></p></span></div></div>\n                            <div class=\"card-box col-xs-9 mbr-table-cell text-xs-left\">\n                                <h4 class=\"card-title mbr-section-subtitle text-1 mbr-editable-content\" code-editable-id=\"23\"><strong>ORGANISME DE CONTROLE AGREE. Certifié conforme.&nbsp;</strong><div>Depuis 2011, Certinergie s'occupe des contrôles obligatoires dans le cadre d'une vente: Certificat PEB, contrôle électrique, contrôle citerne.</div></h4>\n                            </div>                            \n                            <div class=\"clear\"></div>\n                        </div>\n                    </div>\n\n                    <div class=\"mbr-cards-col col-xs-12\">\n                        <div class=\"card\">\n                            <div class=\"card-img col-xs-3 mbr-table-cell\"><div class=\"mbr-iconfont\"><span class=\"mbr-editable-content\" code-editable-id=\"24\"><p><strong>2</strong></p></span></div></div>\n                            <div class=\"card-box col-xs-9 mbr-table-cell text-xs-left\">\n                                <h4 class=\"card-title mbr-section-subtitle text-1 mbr-editable-content\" code-editable-id=\"25\"><strong>MISE EN VALEUR. Créez le coup de coeur !&nbsp;</strong><div>Photos, visite virtuelle, drone, plans de vente, descriptif complet.&nbsp;</div><div>Créez le coup de coeur !</div></h4>\n                            </div>                            \n                            <div class=\"clear\"></div>\n                        </div>\n                    </div>\n\n                    <div class=\"mbr-cards-col col-xs-12\">\n                        <div class=\"card\">\n                            <div class=\"card-img col-xs-3 mbr-table-cell\"><div class=\"mbr-iconfont\"><span class=\"mbr-editable-content\" code-editable-id=\"26\"><p><strong>3</strong></p></span></div></div>\n                            <div class=\"card-box col-xs-9 mbr-table-cell text-xs-left\">\n                                <h4 class=\"card-title mbr-section-subtitle text-1 mbr-editable-content\" code-editable-id=\"27\"><strong>AFFICHAGE BIDDIT SUR-MESURE. La cerise sur le gâteau.</strong><div>Les ventes biddit exigent le respect d'une charte graphique précise. <br>Conception, impression, placement, ... Certinergie a pensé à tout pour vous.</div></h4>\n                            </div>                            \n                            <div class=\"clear\"></div>\n                        </div>\n                    </div>\n\n                    \n\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
@@ -357,6 +357,53 @@
         {
           "_params": {
             "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "14",
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fichier-1.svg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<b>Partenaire de vos ventes depuis 2011.</b>",
+          "text": "En tant qu’organisme de contrôle agréé, Certinergie a acquis une solide expérience à vos côtés. Notre objectif a toujours été de vous faciliter la gestion des nouvelles obligations légales imposées dans le cadre des opérations immobilières. Parce que les clients sont toujours plus exigeants, nous souhaitons vous en offrir bien plus en complétant nos services ! <br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-l",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
             "showSubtitle": true,
             "showIcons": true,
             "firstType": "",
@@ -402,7 +449,7 @@
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Vous disposez des rapports des contrôles légaux obligatoires. Présentez le bien sous son meilleur jour.</b></li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Les points de départ d'une vente. Gagnez du temps en confiant à des professionnels la réalisation de ces indispensables.</b></li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Contrôles légaux et mise en valeur optimale du bien. Nos services phares réunis en un pack all-in avantageux.&nbsp;</b></li></ul>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Les panneaux biddit répondent à une charte graphique bien précise. Confiez à des spécialistes la gestion de l'affichage.&nbsp;</b><br></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Les panneaux biddit répondent à une charte graphique bien précise. Laissez à nos spécialistes la gestion de l'affichage.&nbsp;</b><br></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Commander</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Commander</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Commander</a>",
@@ -411,117 +458,12 @@
             "Thème"
           ],
           "_name": "pricing-table3",
-          "_anchor": "pricing-table3-f",
-          "currency1": "A partir de&nbsp;",
-          "currency2": "A partir de&nbsp;",
-          "currency3": "A partir de&nbsp;",
-          "currency4": "Starter Pack",
-          "_styles": {
-            ".mbr-section__container .mbr-section-subtitle": {
-              "font-size": "12px"
-            },
-            ".mbr-section__container .mbr-section-title": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "60px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": "14",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fichier-1.svg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Partenaire de vos ventes depuis 2011.",
-          "text": "Sur ces dernières années et en tant qu’organisme de contrôle agréé, Certinergie a acquis une expérience forte à vos côtés. Notre objectif a toujours été de vous faciliter la gestion des nouvelles obligations légales imposées dans le cadre des opérations immobilières.\nRéactivité, simplicité, qualité et compétitivité définissent notre notion du service.\nParce que les clients sont toujours plus exigeants, nous souhaitons vous en offrir bien plus !<br>Notre leitmotiv? Réinventer sans cesse la notion de service. Notre exigence est à la hauteur de celle de nos clients. \nCertinergie se compose des meilleurs experts et ce dans chacun des domaines que nous touchons, dans le seul but de vous rendre un service optimal réactif et de qualité. <br>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "content8",
-          "_anchor": "content8-l",
-          "_styles": {
-            "H3": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "48px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": 10,
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "Copyright 2016, Mobirise. License: <a href=\"http://mobirise.com\">EULA</a>",
-          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
-          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_tags": [
-            "Thème"
-          ],
-          "_name": "footer2",
-          "_anchor": "footer2-j",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          }
+          "_anchor": "pricing-table3-m",
+          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n.mbr-section__container .mbr-section-subtitle {\n  font-size: 12px;\n}\n.mbr-section__container .mbr-section-title {\n  font-family: 'Roboto', sans-serif;\n  font-size: 50px;\n}\n.mbr-price-table {\n    padding-bottom:0px;\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full pricing-table3\" data-rv-view=\"387\" style=\"background-color: rgb(232, 233, 232); padding-top: 80px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"488\">Nos offres Combi</h3>\n                  <p class=\"mbr-section-subtitle sub-2 mbr-editable-content\" style=\"font-size: 15px;\" code-editable-id=\"489\"><strong>Prix minimums calculés pour appartements/maisons 2 chambres. Tarifs complets sur simple demande.</strong></p>\n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"main-row\" style=\"max-width: none;\">\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\" style=\"background: linear-gradient(45deg, rgb(21, 94, 111), rgb(26, 118, 139), rgb(36, 165, 195)) rgb(26, 118, 139);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"490\">Media Combi</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"491\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"492\">250</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"493\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"494\">Plans 2D - Photos - Visite virtuelle<br><br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"495\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Vous disposez des rapports des contrôles légaux obligatoires. Présentez le bien sous son meilleur jour.</strong></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"496\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\" style=\"background: linear-gradient(45deg, rgb(21, 94, 111), rgb(26, 118, 139), rgb(36, 165, 195)) rgb(26, 118, 139);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"497\">Immo Light Combi</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"498\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"499\">325</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"500\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"501\">Certificat PEB - Contrôle électrique - Photos<br></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"502\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Les points de départ d'une vente. Gagnez du temps en confiant à des professionnels la réalisation de ces indispensables.</strong></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"503\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\" style=\"background: linear-gradient(45deg, rgb(21, 94, 111), rgb(26, 118, 139), rgb(36, 165, 195)) rgb(26, 118, 139);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"504\">Immo Combi</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"505\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"506\">425</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"507\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"508\">Certificat PEB - Contrôle électrique - Plans 2D - Photos - Visite virtuelle</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"509\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Contrôles légaux et mise en valeur optimale du bien. Nos services phares réunis en un pack all-in avantageux.&nbsp;</strong></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"510\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block primary\" style=\"background: linear-gradient(45deg, rgb(175, 82, 67), rgb(219, 102, 84), rgb(255, 143, 118)) rgb(219, 102, 84);\">\n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"511\">Option Biddit</h3>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"512\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"513\">150</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"514\">€/par bien</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"515\">Conception - Impression - Placement de panneaux</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"516\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><strong>Les panneaux biddit répondent à une charte graphique bien précise. Laissez à nos spécialistes la gestion de l'affichage.&nbsp;</strong><br></li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-lg btn-info mbr-editable-button\" code-editable-id=\"517\">Commander</a></div>\n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -583,11 +525,136 @@
           ],
           "_name": "form1",
           "_anchor": "form1-g",
+          "_customCSS": ".form {\n  background: #fff;\n}\nh1{\n    font-size:50px;\n}\n.form1 .form {\nborder: 0px solid #efeff0;\npadding: 2rem 1rem;\n}\n.heading-title {\nmargin-bottom: 0em;\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero form1\" data-rv-view=\"209\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n        <div class=\"container\">\n            <div class=\"row heading\">\n                <div class=\"col-md-12 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-3 heading-title mbr-editable-content\" code-editable-id=\"621\">Vous désirez plus d'informations?</h1>\n                    \n                    \n                </div>\n            </div>\n        </div>\n\n        <div class=\"container\">\n            <div class=\"col-xs-12 form\">\n\n                <div class=\"row\">\n                    <div class=\"col-xs-12 col-md-8 col-md-offset-2\">\n                        <h5 class=\"form-title mbr-section-subtitle text-1 mbr-editable-content\" code-editable-id=\"622\"><strong>Nous répondrons à toutes vos questions dans les plus brefs délais !</strong></h5>\n                    </div>                    \n                </div>\n\n                <div class=\"row\" data-form-type=\"formoid\">\n                    <div data-form-alert=\"true\">\n                        <div hidden=\"\" data-form-alert-success=\"true\" class=\"alert alert-form alert-success text-xs-center\">Votre demande a bien été envoyée ! Nous vous contacterons dès que celle-ci aura été traitée.</div>\n                    </div>\n\n\n                    <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"Vous désirez plus d'informations?\">\n\n                        <input type=\"hidden\" value=\"kmBCCoRZhWs6bqUY/ms1MLV3tHfBg8ls8tg3NGaP9W9reLs0L9S1KlVf2Gp/9STKvWRGyM/Ws8c2xz4S0vxsX3BEtwj2mF2YH3ydUUKBeAKHc85uldQgd6OsDjkZyndP\" data-form-email=\"true\">\n\n                        <div class=\"col-xs-12 col-md-8 col-md-offset-2 form-wrap\">\n\n                            <div class=\"col-xs-12\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\">Nom*</label>\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" required=\"\" data-form-field=\"Name\" placeholder=\"Nom*\">\n                                </div>\n                            </div>\n\n                            <div class=\"col-xs-12\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\">Email*</label>\n                                    <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" data-form-field=\"Email\" placeholder=\"Email*\">\n                                </div>\n                            </div>\n\n                            <div class=\"col-xs-12\">\n                                <div class=\"form-group\">\n                                    <label class=\"form-control-label\">N° de téléphone</label>\n                                    <input type=\"tel\" class=\"form-control\" name=\"phone\" data-form-field=\"Phone\" placeholder=\"N° de téléphone\">\n                                </div>\n                            </div>\n\n                            <div class=\"col-xs-12\">\n                                <label class=\"form-control-label\">Message</label>\n                                <textarea class=\"form-control\" name=\"message\" rows=\"7\" data-form-field=\"Message\" placeholder=\"Message\"></textarea>\n                            </div>\n\n                        </div>\n\n                        <div class=\"clear\"></div>\n\n\n                        <div class=\"col-xs-12 col-md-8 col-md-offset-2 form-button-wrap\">\n\n                            <div class=\"text-xs-center text-md-right\"><button type=\"submit\" class=\"btn btn-lg btn-danger mbr-editable-button\" code-editable-id=\"623\">Envoyer</button></div>\n\n                        </div>\n\n                    </form>\n\n                </div>\n    \n            </div>\n        </div>\n\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
+        },
+        {
           "_styles": {
-            ".form": {
-              "background": "#fafbfc"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "16px"
             }
-          }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "Simplifiez-vous la vente !<br>Contactez-nous.",
+          "meta": "By <b>John Smith</b> posted July 20, 2016",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-q",
+          "_customCSS": "h1{\n    font-size:50px;\n}"
+        },
+        {
+          "_inherit": "features8",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "iconsBgColor": "#1a768b",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/06.jpg"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": ""
+            }
+          },
+          "title1": "Par téléphone",
+          "subtitle1": "Awesome",
+          "text1": "0800 82 171",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/07.jpg"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": ""
+            }
+          },
+          "title2": "Par mail",
+          "subtitle2": "Awesome",
+          "text2": "info@certinergie.be",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/08.jpg"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": ""
+            }
+          },
+          "title3": "Via notre site web",
+          "subtitle3": "Awesome",
+          "text3": "www.certinergie.be",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "title": "Always on your terms",
+          "text": "Mobirise",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "_name": "features9",
+          "_anchor": "features9-r",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "#1a768b",
+              "border-color": "#1a768b"
+            },
+            ".card-text": {
+              "font-size": "16px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_customCSS": ".card-text {\nfont-size: 25px;\nfont-family: 'Roboto', sans-serif;\n}"
         }
       ]
     }
