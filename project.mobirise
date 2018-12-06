@@ -1,0 +1,595 @@
+{
+  "settings": {
+    "name": "Landing page Biddit-clone",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "directm",
+      "title": "DirectM",
+      "styling": {
+        "primaryColor": "#fffffd",
+        "secondaryColor": "#A25DAE",
+        "successColor": "#1E7C3A",
+        "infoColor": "#74a3c7",
+        "warningColor": "#FFD785",
+        "dangerColor": "#FF9685",
+        "titleFont": "Oxygen",
+        "subtitleFont": "Libre Franklin",
+        "textFont": "Libre Franklin",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#ffffff",
+        "#e2e2e2",
+        "#282828",
+        "#1a768b",
+        "#e8e9e8"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.7",
+    "siteFonts": [],
+    "uniqCompNum": 22,
+    "versionPublish": "4.8.7",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": "32",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fond-biddit-2000x1414.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "containerColor1": "#094587",
+            "containerColor2": "#3adcdc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/certi-biddit.svg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Certinergie vous accompagne aussi dans la <b>gestion de vos dossiers biddit</b>",
+          "text": "Des contrôles légaux à la mise en place de panneaux immobiliers en passant par la mise en valeur visuelle du bien et le partage d'informations techniques ... Certinergie est présent à chaque étape du processus de mise en vente.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Essayez maintenant !</a> ",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-2",
+          "_styles": {
+            "H3": {
+              "font-size": "48px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "24px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "B": {
+              "font-size": "46px"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_customCSS": ""
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgicon": false,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": 3,
+            "iconsBgColor": "#db6654",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#e2e2e2",
+            "containerColor2": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#616161",
+            "overlayOpacity": 0.8
+          },
+          "bgicon": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com"
+            }
+          },
+          "title": "Certinergie. De A à Z.",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-lg btn-empty\" href=\"https://mobirise.com\">Or view demo</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "mobirise",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number1": "<p><b>1</b></p>",
+          "title1": "What is Mobirise",
+          "subtitle1": "Awesome",
+          "text1": "<b>ORGANISME DE CONTROLE AGREE.&nbsp;</b><div>Depuis 2011, Certinergie s'occupe des contrôles obligatoires dans le cadre d'une vente: Certificat PEB, contrôle électrique, contrôle citerne.</div>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number2": "<p><b>2</b></p>",
+          "title2": "What is Mobirise",
+          "subtitle2": "Awesome",
+          "text2": "<b>MISE EN VALEUR.&nbsp;</b><div>Photos, visite virtuelle, drone, plans de vente, descriptif complet.&nbsp;</div><div>Créez le coup de coeur !</div>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "devices",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number3": "<p><b>3</b></p>",
+          "title3": "What is Mobirise",
+          "subtitle3": "Awesome",
+          "text3": "<b>AFFICHAGE BIDDIT SUR-MESURE. LA CERISE SUR LE GÂTEAU.</b><div>Les ventes biddit exigent le respect d'une charte graphique précise. <br>Conception, impression, placement, ... Certinergie a pensé à tout pour vous.</div>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch-swipe",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "number4": "<p>4</p>",
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "features18",
+          "_anchor": "features18-8",
+          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);\n.card .mbr-iconfont {\n  color: #db6654;\n  border-color: #db6654;\n}\n.mbr-table-cell {\n  vertical-align: middle;\n}\n.heading-title {\n  text-align: left;\n  font-family: 'Montserrat', sans-serif;\n  color: #424242;\n}\n.card-title DIV {\n  font-size: 15px;\n  color: #424242;\n}\nP {\n  color: #424242;\n}\n.card-title B {\n  color: #bb412e;\n  font-size: 18px;\n}\nh4 {\n    color: #000;\n}",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features18\" data-rv-view=\"22\" style=\"background: #e8e9e8;padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    \n\n    <div class=\"container\">\n        <div class=\"row heading\">\n            <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n\n                <h1 class=\"mbr-section-title display-3 heading-title mbr-editable-content\" style=\"font-family: Roboto, sans-serif; text-align: center;\" code-editable-id=\"14\">Certinergie. De A à Z.</h1>\n                \n                \n            </div>\n        </div>\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-cards-col col-xs-12 col-lg-8 col-lg-offset-2\">\n                <div class=\"row\">\n\n                    <div class=\"mbr-cards-col col-xs-12\">\n                        <div class=\"card\">\n                            <div class=\"card-img col-xs-3 mbr-table-cell\"><div class=\"mbr-iconfont\"><span class=\"mbr-editable-content\" code-editable-id=\"15\"><p><strong>1</strong></p></span></div></div>\n                            <div class=\"card-box col-xs-9 mbr-table-cell text-xs-left\">\n                                <h4 class=\"card-title mbr-section-subtitle text-1 mbr-editable-content\" code-editable-id=\"16\"><strong>ORGANISME DE CONTROLE AGREE. Certifié conforme.&nbsp;</strong><div>Depuis 2011, Certinergie s'occupe des contrôles obligatoires dans le cadre d'une vente: Certificat PEB, contrôle électrique, contrôle citerne.</div></h4>\n                            </div>                            \n                            <div class=\"clear\"></div>\n                        </div>\n                    </div>\n\n                    <div class=\"mbr-cards-col col-xs-12\">\n                        <div class=\"card\">\n                            <div class=\"card-img col-xs-3 mbr-table-cell\"><div class=\"mbr-iconfont\"><span class=\"mbr-editable-content\" code-editable-id=\"17\"><p><strong>2</strong></p></span></div></div>\n                            <div class=\"card-box col-xs-9 mbr-table-cell text-xs-left\">\n                                <h4 class=\"card-title mbr-section-subtitle text-1 mbr-editable-content\" code-editable-id=\"18\"><strong>MISE EN VALEUR. Créez le coup de coeur !&nbsp;</strong><div>Photos, visite virtuelle, drone, plans de vente, descriptif complet.&nbsp;</div><div>Créez le coup de coeur !</div></h4>\n                            </div>                            \n                            <div class=\"clear\"></div>\n                        </div>\n                    </div>\n\n                    <div class=\"mbr-cards-col col-xs-12\">\n                        <div class=\"card\">\n                            <div class=\"card-img col-xs-3 mbr-table-cell\"><div class=\"mbr-iconfont\"><span class=\"mbr-editable-content\" code-editable-id=\"19\"><p><strong>3</strong></p></span></div></div>\n                            <div class=\"card-box col-xs-9 mbr-table-cell text-xs-left\">\n                                <h4 class=\"card-title mbr-section-subtitle text-1 mbr-editable-content\" code-editable-id=\"20\"><strong>AFFICHAGE BIDDIT SUR-MESURE. La cerise sur le gâteau.</strong><div>Les ventes biddit exigent le respect d'une charte graphique précise. <br>Conception, impression, placement, ... Certinergie a pensé à tout pour vous.</div></h4>\n                            </div>                            \n                            <div class=\"clear\"></div>\n                        </div>\n                    </div>\n\n                    \n\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_styles": {
+            ".card .mbr-iconfont": {
+              "color": "#db6654",
+              "border-color": "#db6654"
+            },
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-113867258-m-2-1688x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-113867258-m-2-1688x1125-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/livret-cover-ouvert-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/livret-cover-ouvert-2000x1333-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dsc-6425-2000x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-6425-2000x1331-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/cer-10-2000x1354.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cer-10-2000x1354-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-169084770-m-1839x1033.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-169084770-m-1839x1033-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dsc-6373-2000x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-6373-2000x1331-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-amo8773-2000x1331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/amo8773-2000x1331-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-177316319-m-1949x975.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-177316319-m-1949x975-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "All",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-9"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showIcons": true,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "primary",
+            "bgColor1": "#1a768b",
+            "bgColor2": "#db6654",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/tabs1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e8e9e8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Nos offres Combi",
+          "subtitle": "Prix minimums calculés pour appartements/maisons 2 chambres. Tarifs complets sur simple demande.",
+          "title1": "Media Combi",
+          "title2": "Immo Light Combi",
+          "title3": "Immo Combi",
+          "title4": "Option Biddit",
+          "price1": "250",
+          "price2": "325",
+          "price3": "425",
+          "price4": "150",
+          "period1": "€/par bien",
+          "period2": "€/par bien",
+          "period3": "€/par bien",
+          "period4": "€/par bien",
+          "description1": "Plans 2D - Photos - Visite virtuelle<br><br>",
+          "description2": "Certificat PEB - Contrôle électrique - Photos<br>",
+          "description3": "Certificat PEB - Contrôle électrique - Plans 2D - Photos - Visite virtuelle",
+          "description4": "Conception - Impression - Placement de panneaux",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Vous disposez des rapports des contrôles légaux obligatoires. Présentez le bien sous son meilleur jour.</b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Les points de départ d'une vente. Gagnez du temps en confiant à des professionnels la réalisation de ces indispensables.</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Contrôles légaux et mise en valeur optimale du bien. Nos services phares réunis en un pack all-in avantageux.&nbsp;</b></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Les panneaux biddit répondent à une charte graphique bien précise. Confiez à des spécialistes la gestion de l'affichage.&nbsp;</b><br></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Commander</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Commander</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Commander</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrBtnMove\">Commander</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "pricing-table3",
+          "_anchor": "pricing-table3-f",
+          "currency1": "A partir de&nbsp;",
+          "currency2": "A partir de&nbsp;",
+          "currency3": "A partir de&nbsp;",
+          "currency4": "Starter Pack",
+          "_styles": {
+            ".mbr-section__container .mbr-section-subtitle": {
+              "font-size": "12px"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "14",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fichier-1.svg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Partenaire de vos ventes depuis 2011.",
+          "text": "Sur ces dernières années et en tant qu’organisme de contrôle agréé, Certinergie a acquis une expérience forte à vos côtés. Notre objectif a toujours été de vous faciliter la gestion des nouvelles obligations légales imposées dans le cadre des opérations immobilières.\nRéactivité, simplicité, qualité et compétitivité définissent notre notion du service.\nParce que les clients sont toujours plus exigeants, nous souhaitons vous en offrir bien plus !<br>Notre leitmotiv? Réinventer sans cesse la notion de service. Notre exigence est à la hauteur de celle de nos clients. \nCertinergie se compose des meilleurs experts et ce dans chacun des domaines que nous touchons, dans le seul but de vous rendre un service optimal réactif et de qualité. <br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-l",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": 10,
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "Copyright 2016, Mobirise. License: <a href=\"http://mobirise.com\">EULA</a>",
+          "list1": "<a href=\"http://mobirise.com\">Boost your ranking</a>",
+          "list2": "<a href=\"http://mobirise.com\">Bootstrap Builder</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-j",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "formBg": "#fafbfc",
+            "formHeader": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Vous désirez plus d'informations?",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get started</a>",
+          "header": "<b>Contactez-nous via notre formulaire. Nous répondrons à toutes vos questions dans les plus brefs délais !</b>",
+          "form": {
+            "action": "vc@certinergie.be",
+            "alerts": {
+              "success": "Votre demande a bien été envoyée ! Nous vous contacterons dès que celle-ci aura été traitée."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nom*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "N° de téléphone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons1": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Envoyer</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-g",
+          "_styles": {
+            ".form": {
+              "background": "#fafbfc"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
